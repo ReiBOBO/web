@@ -1,0 +1,26 @@
+body{
+
+  background-color: gray;
+}
+h1{
+  color: red;
+}
+
+hr{
+
+  border-style: dotted none none;
+  color: white;
+  border-width: 20px;
+  width: 10%;
+
+}
+/*********************class selector *****************************/
+.class1{
+  background-color: green;
+}
+/*********************id selector**********************************/
+#id1{
+  height: 300pt;
+  width: 210pt;
+
+}
